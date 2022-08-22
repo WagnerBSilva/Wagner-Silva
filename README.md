@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Wagner Silva</i></a> 😃️</h1>
-  <p align="center">Estudo Desenvolvimento Web🏽️</span>
+  <p align="center">Estudo Analise e Desenvolvimento de Sistemas🏽️</span>
 
 
 <!-- <h1 align="center"> 
